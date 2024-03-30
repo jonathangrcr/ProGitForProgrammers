@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("I just added this in JetBrains Rider");
 Console.WriteLine("I just added this in Command Line repo");
+
+// We are going to test commit messages
